@@ -1,0 +1,9 @@
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe.config
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\bin\Debug\ProcessNote.pdb
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csprojResolveAssemblyReference.cache
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\obj\Debug\ProcessNote.Form1.resources
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\obj\Debug\ProcessNote.Properties.Resources.resources
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csproj.GenerateResource.Cache
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\obj\Debug\ProcessNote.exe
+c:\users\noncsi\documents\visual studio 2017\Projects\ProcessNote\ProcessNote\obj\Debug\ProcessNote.pdb
